@@ -1,7 +1,7 @@
 # terminal-gambling-game
 A simple project I made in Python. Give feedback if you want to :)
 
-####################################################################################
+##########################################################################
 
 Im a new python dev, or well learning python, made this little gambling game, here the important stuff:
 
